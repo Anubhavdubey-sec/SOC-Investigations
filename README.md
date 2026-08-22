@@ -1,4 +1,4 @@
-# SOC Investigations
+# SOC Investigations 
 
 A practical Security Operations Center (SOC) investigation portfolio focused on detecting, analyzing, and responding to simulated security incidents.
 
